@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "type": "image",
+    "title": "Our Services",
+    "enabled": true,
+    "subtitle": "Comprehensive Casting Manufacturing Solutions",
+    "description": "From design to delivery, we provide end-to-end manufacturing services with precision and quality.",
+    "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80"
+  },
+  "meta": {
+    "title": "Services - Maa Brass",
+    "description": "Comprehensive casting manufacturing services including sand casting, die casting, investment casting with quality assurance and timely delivery."
+  },
+  "sections": {
+    "cta": {
+      "type": "cta",
+      "title": "Ready to Start Your Project?",
+      "enabled": true,
+      "subtitle": "Contact us today to discuss your manufacturing requirements.",
+      "primaryCTA": {
+        "text": "Get Quote",
+        "action": "/contact"
+      },
+      "secondaryCTA": {
+        "text": "View Products",
+        "action": "/products"
+      }
+    },
+    "capabilities": {
+      "type": "capabilities",
+      "items": [
+        {
+          "id": "custom-manufacturing",
+          "icon": "cog",
+          "title": "Custom Manufacturing",
+          "features": [
+            "Precision brass casting",
+            "Multi-technique casting solutions",
+            "Complex component manufacturing"
+          ],
+          "description": "Specialized brass casting services tailored to meet unique industrial requirements with high precision and quality."
+        }
+      ],
+      "title": "Our Capabilities",
+      "enabled": true,
+      "subtitle": "Advanced manufacturing capabilities for diverse industrial requirements"
+    },
+    "manufacturingProcess": {
+      "type": "manufacturing-process",
+      "items": [
+        {
+          "step": 1,
+          "title": "Design & Engineering",
+          "description": "CAD modeling and engineering analysis for optimal brass component specifications."
+        },
+        {
+          "step": 2,
+          "title": "Material Selection",
+          "description": "Premium quality brass materials from certified suppliers."
+        }
+      ],
+      "title": "Manufacturing Process",
+      "enabled": true,
+      "subtitle": "Systematic approach ensuring quality at every step"
+    }
+  }
+}
