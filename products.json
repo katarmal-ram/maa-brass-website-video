@@ -1,0 +1,96 @@
+{
+  "hero": {
+    "type": "image",
+    "title": "Our Products",
+    "enabled": true,
+    "subtitle": "Precision Engineered Brass Casting Products",
+    "description": "Discover our comprehensive range of high-quality brass casting products designed for various industrial applications.",
+    "backgroundImage": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=2000&q=80"
+  },
+  "meta": {
+    "title": "Products - Maa Brass",
+    "description": "High-quality brass casting products including plumbing, automotive, and industrial components manufactured with precision and reliability."
+  },
+  "sections": {
+    "cta": {
+      "type": "cta",
+      "title": "Need Custom Products?",
+      "enabled": true,
+      "subtitle": "We specialize in custom manufacturing to meet your specific requirements.",
+      "primaryCTA": {
+        "text": "Request Quote",
+        "action": "/contact"
+      },
+      "secondaryCTA": {
+        "text": "View Services",
+        "action": "/services"
+      }
+    },
+    "qualityAssurance": {
+      "type": "quality-assurance",
+      "items": [
+        {
+          "title": "Material Testing",
+          "description": "Comprehensive material analysis and verification."
+        },
+        {
+          "title": "Dimensional Inspection",
+          "description": "Precision measurement and tolerance verification."
+        }
+      ],
+      "title": "Quality Assurance",
+      "enabled": true,
+      "subtitle": "Rigorous testing and quality control processes"
+    },
+    "productCategories": {
+      "type": "product-categories",
+      "title": "Product Categories",
+      "enabled": true,
+      "subtitle": "Comprehensive range of products for diverse industrial needs",
+      "categories": [
+        {
+          "id": "category-1",
+          "name": "Plumbing & Sanitary Castings",
+          "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=600&q=80",
+          "products": [
+            {
+              "name": "Brass Valve Connectors",
+              "description": "High-precision brass valve connectors for plumbing and sanitary systems",
+              "applications": [
+                "Water supply systems",
+                "Plumbing infrastructure"
+              ],
+              "specifications": {
+                "material": "Brass Alloy",
+                "tolerance": "±0.05mm",
+                "dimensions": "10-200mm diameter range"
+              }
+            }
+          ],
+          "description": "Precision-engineered brass castings for plumbing and sanitary applications"
+        },
+        {
+          "id": "category-2",
+          "name": "Automotive Castings",
+          "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&q=80",
+          "products": [
+            {
+              "name": "Automotive Brass Fittings",
+              "description": "Specialized brass components for automotive systems",
+              "applications": [
+                "Engine components",
+                "Fluid connection systems"
+              ],
+              "specifications": {
+                "material": "Brass Alloy",
+                "tolerance": "±0.03mm",
+                "dimensions": "5-100mm size range"
+              }
+            }
+          ],
+          "description": "High-performance brass castings for automotive manufacturing"
+        }
+      ]
+    }
+  }
+}
