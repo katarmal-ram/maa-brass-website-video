@@ -1,0 +1,29 @@
+{
+  "siteName": "Maa Brass",
+  "siteDescription": "Premier brass casting foundry specializing in high-precision manufacturing solutions for automotive, plumbing, electrical, and industrial sectors",
+  "company": {
+    "name": "Maa Brass",
+    "description": "A leading brass casting manufacturer with 90+ years of expertise in delivering high-quality, precision-engineered metal components across multiple industries",
+    "industry": "Casting Manufacturing",
+    "establishedYear": 1933,
+    "contact": {
+      "email": "info@maabrasscasting.com",
+      "phone": "+91 (288) 254-6789",
+      "address": "Industrial Estate, Jamnagar, Gujarat 361001, India"
+    }
+  },
+  "seo": {
+    "keywords": "brass casting, metal manufacturing, precision casting, industrial components, sand casting, die casting, investment casting",
+    "author": "Maa Brass"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/company/maa-brass",
+    "facebook": "https://facebook.com/maabrasscasting",
+    "twitter": "https://twitter.com/maabrasscasting"
+  },
+  "theme": {
+    "primaryColor": "#1e40af",
+    "secondaryColor": "#64748b",
+    "accentColor": "#f59e0b"
+  }
+}
